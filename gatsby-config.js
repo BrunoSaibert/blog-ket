@@ -1,14 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Kethlyn Saibert`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Kethlyn Saibert`,
+      summary: `Apaixonada por comunicação, amo ler e escrever, sou apreciadora do cinema, música e cultura pop. Adoro fotografia, sou protetora dos animais (e também louca dos gatos rs), sou movida pelos sonhos e pela cafeína.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Blog de Kethlyn Saibert, acadêmica de Jornalismo`,
+    siteUrl: `https://blog-ket.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `kettavss`,
+      instagram: `kettavs`,
+      linkedin: `kethlyn-tavares-saibert`,
+      whatsapp: `5541987714545`,
+      email: `kethlyntavares96@gmail.com`,
     },
   },
   plugins: [
@@ -33,7 +37,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              maxWidth: 700,
             },
           },
           {
@@ -53,20 +57,20 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `152741486`,
       },
     },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Kethlyn Saibert`,
+        short_name: `KethlynSaibert`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#b60627`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,

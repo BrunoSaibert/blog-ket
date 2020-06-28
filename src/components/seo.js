@@ -20,6 +20,10 @@ const SEO = ({ description, lang, meta, title }) => {
             description
             social {
               twitter
+              instagram
+              linkedin
+              whatsapp
+              email
             }
           }
         }

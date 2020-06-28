@@ -27,6 +27,21 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.title}
           </h1>
+
+          {post.frontmatter.description && (
+            <h2
+              style={{
+                color: "#757575",
+                fontSize: "24px",
+                lineHeight: "32px",
+                display: `block`,
+                marginTop: rhythm(1),
+                marginBottom: rhythm(1 / 4),
+              }}
+            >
+              {post.frontmatter.description}
+            </h2>
+          )}
           <p
             style={{
               ...scale(-1 / 5),
@@ -93,7 +108,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "DD/MM/YYYY")
         description
       }
     }

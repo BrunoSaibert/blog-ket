@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #202019;
+  /* -webkit-font-smoothing: antialiased; */
+}
+
+body.dark {
+  background: #333;
+  color: #fff;
+}
+
+/* LINKS */
+
+a {
+  color: #b60627;
+  transition: all 0.3s ease-in;
+}
+
+a:hover {
+  color: #ef0833;
+  opacity: 1;
+}
+
+/* LINKS SOCIAL */
+
+a.social {
+  text-decoration: none;
+  box-shadow: none;
+  font-size: 24px;
+}
+
+a.social + a.social {
+  margin-left: 10px;
+}
+
+/* BIO */
+
+@media only screen and (max-width: 480px) {
+  .bio {
+    flex-direction: column;
+  }
+
+  .bio .gatsby-image-wrapper {
+    margin: 0 auto 1rem !important;
+  }
+}
+
+/* LIST's */
+
+@media only screen and (max-width: 480px) {
+  nav ul,
+  nav ol {
+    margin: 0;
+  }
+}
+
+/* CARD */
+
+.card {
+  box-shadow: 0 1px 4px rgba(230, 230, 230, 1);
+  border: 1px solid rgba(230, 230, 230, 1);
+  border-radius: 5px;
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.card p {
+  margin-bottom: 0;
+}
+
+/* ARTICLE */
+article ul,
+article ol {
+  margin-left: 1.75rem;
+}
+
+/* BUTTON */
+
+button {
+  cursor: pointer;
+}
