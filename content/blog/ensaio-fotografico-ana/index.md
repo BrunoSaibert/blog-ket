@@ -1,5 +1,5 @@
 ---
-title: Ensáio Fotográfico Ana
+title: Ensaio Fotográfico
 date: "2020-01-15T12:00:00.284Z"
 description: Trabalho Voluntário
 ---
