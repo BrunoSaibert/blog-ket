@@ -3,7 +3,7 @@ module.exports = {
     title: `Kethlyn Saibert`,
     author: {
       name: `Kethlyn Saibert`,
-      summary: `Apaixonada por comunicação, amo ler e escrever, sou apreciadora do cinema, música e cultura pop. Adoro fotografia, sou protetora dos animais (e também louca dos gatos rs), sou movida pelos sonhos e pela cafeína.`,
+      summary: `Apaixonada por comunicação, amo ler e escrever, sou apreciadora do cinema, música e cultura pop. Adoro fotografia, sou protetora dos animais (e também louca dos gatos rs), movida pelos sonhos e pela cafeína.`,
     },
     description: `Blog de Kethlyn Saibert, acadêmica de Jornalismo`,
     siteUrl: `https://blog-ket.netlify.app/`,
