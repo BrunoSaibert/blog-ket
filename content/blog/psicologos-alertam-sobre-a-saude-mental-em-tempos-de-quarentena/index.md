@@ -1,6 +1,6 @@
 ---
 title: Psicólogos alertam sobre a saúde mental em tempos de quarentena
-date: "20209-04-30T12:00:00.284Z"
+date: "2020-04-30T12:00:00.284Z"
 description: Crise do coronavírus e isolamento social contribuem para o desequilíbrio emocional. Nesse contexto, profissionais apontam cuidados que devem ser tomados.
 ---
 
