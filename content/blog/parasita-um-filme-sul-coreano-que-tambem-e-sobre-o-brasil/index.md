@@ -1,8 +1,10 @@
 ---
-title: Parasita - Um filme sul-coreano que também é sobre o Brasil
+title: "Parasita: Um filme sul-coreano que também é sobre o Brasil"
 date: "2020-02-12T12:00:00.284Z"
 description: O drama do diretor Bong Joon-ho é o primeiro longa falado em língua estrangeira a conquistar o maior prêmio do Oscar
 ---
+
+**_Publicada originalmente em [POP FM Curitiba](http://popfmcuritiba.com.br/noticias/parasita-um-filme-sul-coreano-que-tambem-e-sobre-o-brasil)._**
 
 ![Capa do filme Parasita do](./capa-filme-parasita.jpg)
 _Foto: Parasita/Pandora Filmes/Divulgação_
@@ -13,7 +15,7 @@ Mas ‘Parasita’ não é só sobre a realidade da Coreia do Sul, ele também �
 
 Umas das cenas mais emblemáticas, é no momento em que o patriarca Kim está trabalhando para a matriarca Park, ele dirige o carro chique da madame, enquanto ela está no celular conversando e solta a máxima: “Hoje o céu está tão azul, e sem poluição. A chuva foi uma verdadeira benção”. Sendo que na noite anterior, a família Kim perdeu o pouco que tinha em sua casa (no caso o porão onde viviam), com a enchente decorrente da chuva que a rica mulher tanto apreciou. Os pertences dos Kim foram levados pela enxurrada misturada com a água de dejetos oriundos do esgoto.
 
-![Foto dividida em três quadros, no primeiro a mulhar rica agradeçe que a chuva limpou o céu, no segundo quadro o motorista lembra que a mesma chuva alagou sua casa, no terceiro quadro temos um contraste entre os personagens sobre o mesmo fato](cenas-parasita.jpg)
+![Foto dividida em três quadros, no primeiro a mulher rica agradeçe que a chuva limpou o céu, no segundo quadro o motorista lembra que a mesma chuva alagou sua casa, no terceiro quadro temos um contraste entre os personagens sobre o mesmo fato](cenas-parasita.jpg)
 _Foto: Reprodução_
 
 Na divisão de classes sociais, o que é um paraíso para uns, pode ser o pesadelo para outros. Na mesma noite em que o Oscar premiou o filme, a cidade de São Paulo começava a enfrentar uma dolorosa chuva que resultou em inundações, desmoronamentos de morros nas regiões mais carentes e muita água suja e escura, exatamente como na trama.
@@ -25,5 +27,3 @@ Ressalto as palavras do diretor, Bong Joon-Ho: "Eu queria falar de algo muito co
 Deixo nesta minha coluna uma reflexão. Uma pesquisa feita pela [Oxfam](https://oxfam.org.br/um-retrato-das-desigualdades-brasileiras/pais-estagnado/) em 2018, mostra que a imensa população brasileira de renda baixa, paga muitos impostos, enquanto a classe bilionária que concentra a maior parte da riqueza do país, quase não é tributada. Os dados também revelam que as 26 pessoas mais ricas do mundo detêm uma riqueza equivalente à mais de 50% do restante da população, valor esse que poderia facilmente equiparar as diferenças sociais.
 
 Em um planeta em que a desigualdade é tão brutal, filmes como o ‘Parasita’ me faz repensar muitas pontos da nossa sociedade. O que será do nosso futuro? Para onde estamos caminhando?
-
-**_Publicada originalmente em [POP FM Curitiba](http://popfmcuritiba.com.br/noticias/parasita-um-filme-sul-coreano-que-tambem-e-sobre-o-brasil)_**
