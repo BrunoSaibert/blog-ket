@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 
-media_folder: "content/assets/images/uploads"
+media_folder: "content/blog/images"
 publish_mode: editorial_workflow
 
 collections:
@@ -50,15 +50,15 @@ collections:
       - label: "Título"
         name: "title"
         widget: "string"
+      - label: "Descrição"
+        name: "description"
+        widget: "string"
       - label: "Data Publicação"
         name: "date"
         widget: "datetime"
         format: "YYYY-MM-DD"
         dateFormat: "YYYY-MM-DD"
         timeFormat: false
-      - label: "Descrição"
-        name: "description"
-        widget: "string"
       - label: Tags
         label_singular: "Tag"
         name: "tags"
