@@ -24,6 +24,7 @@
           "div",
           { className: "content" },
           h("h1", {}, entry.getIn(["data", "title"])),
+          h("h2", {}, entry.getIn(["data", "description"])),
           h("time", {}, entry.getIn(["data", "date"])),
           h("div", {}, this.props.widgetFor("body"))
         );
