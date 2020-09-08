@@ -1,4 +1,5 @@
 ---
+slug: a-profissao-de-programador-e-o-mercado-da-tecnologia-no-seculo-21
 title: A profissão de programador e o mercado da tecnologia no século 21
 description: Com o avanço tecnológico e das mídias digitais, o profissional de
   programação se tornou altamente requisitado no mercado de trabalho.
