@@ -5,6 +5,7 @@ description: Trabalho Voluntário
 date: 2019-10-05
 tags:
   - Outubro Rosa
+  - Trabalho Voluntário
 ---
 
 ![Outubro Rosa 2019](/images/upload/outubro-rosa-2019.jpg "Outubro Rosa 2019")
