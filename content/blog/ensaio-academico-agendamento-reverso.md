@@ -1,10 +1,14 @@
 ---
 slug: ensaio-academico-agendamento-reverso
 title: Ensaio Acadêmico - Agendamento Reverso
-date: 2019-12-17
 description: Segunda e última fase do Módulo de Fundamentos e Teorias
+date: 2019-12-17
 tags:
-  - tag
+  - Ensaio Acadêmico
+  - Teoria do Agendamento
+  - Agendamento Reverso
+  - Teoria do Jornalismo
+  - Teoria da Comunicação
 ---
 
 ![Produção textual](/images/upload/producao-textual.jpg "Produção textual")
