@@ -5,9 +5,11 @@ description: Famoso cinema de rua curitibano lança o “Passeio em Casa” devi
   pandemia de Covid-19.
 date: 2020-07-17
 tags:
+  - Cine Passeio
   - Cinema
   - Curitiba
   - Jornalismo
+  - Entrevista
 ---
 ![Fachada Cine Passeio](/images/upload/foto_tourvirtualcinepasseio.jpg)
 
