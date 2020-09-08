@@ -49,9 +49,8 @@ Marden diz que a iniciativa “Passeio em Casa” já é um sucesso. O conteúdo
 
 *Foto: Corredor de entrada em tour virtual disponível no site: <http://www.cinepasseio.org/>.*
 
-## Promovendo o incentivo da arte cinematográfica
-
-### Um espaço que vai além de exibir filmes, também é um facilitador da formação audiovisual.
+<h2>Promovendo o incentivo da arte cinematográfica <br />
+<small>Um espaço que vai além de exibir filmes, também é um facilitador da formação audiovisual.</small></h2>
 
 Para Luiz Gustavo Vilela, professor, crítico de cinema e jornalista, a iniciativa de continuar com as masterclasses mesmo com o cinema fechado é imprescindível. Ele ministrou uma aula no dia 4 de julho sobre o trabalho do cineasta americano Wes Anderson.
 
