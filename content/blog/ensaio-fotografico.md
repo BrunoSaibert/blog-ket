@@ -1,10 +1,11 @@
 ---
 slug: ensaio-fotografico
 title: Ensaio Fotográfico
-date: 2020-01-15
 description: Trabalho Voluntário
+date: 2020-01-15
 tags:
-  - tag
+  - Trabalho Voluntário
+  - Ensaio Fotográfico
 ---
 
 ## Fotos realizadas com câmera Canon Power Shot SX 500 IS
