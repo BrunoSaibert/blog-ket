@@ -5,7 +5,10 @@ description: Com o avanço tecnológico e das mídias digitais, o profissional d
   programação se tornou altamente requisitado no mercado de trabalho.
 date: 2020-05-15
 tags:
-  - tag
+  - tecnologia
+  - programacao
+  - mercado-de-trabalho
+  - ensaio-fotografico
 ---
 
 ![Profissional de progamação. Foto: Kethlyn Saibert](/images/upload/programador01.jpg "Profissional de progamação. Foto: Kethlyn Saibert")
