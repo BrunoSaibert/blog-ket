@@ -18,12 +18,12 @@ body.dark {
 /* LINKS */
 
 a {
-  color: #b60627;
+  color: #7159c1;
   transition: all 0.3s ease-in;
 }
 
 a:hover {
-  color: #ef0833;
+  color: #5c42b1;
   opacity: 1;
 }
 
@@ -36,10 +36,14 @@ a.social {
 }
 
 a.social + a.social {
-  margin-left: 10px;
+  margin-left: 18px;
 }
 
 /* BIO */
+
+.bio p {
+  margin-bottom: 0;
+}
 
 @media only screen and (max-width: 480px) {
   .bio {
@@ -67,7 +71,7 @@ a.social + a.social {
   border: 1px solid rgba(230, 230, 230, 1);
   border-radius: 5px;
   padding: 24px;
-  margin-bottom: 24px;
+  margin-bottom: 18px;
 }
 
 .card h3 {
@@ -88,4 +92,48 @@ article ol {
 
 button {
   cursor: pointer;
+}
+
+/* TAGS */
+
+.tags-container {
+  margin: 20px 0;
+}
+footer.tags-container {
+  margin: 10px 0 0;
+}
+.taglist {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+}
+.taglist li {
+  padding: 0;
+  margin: 2px 0;
+  display: flex;
+}
+.taglist a {
+  margin-right: 4px;
+  padding: 4px 16px;
+  font-size: 12px;
+  border-radius: 4px;
+  color: #fff;
+  background: #7159c1;
+  border: 0;
+  box-shadow: none;
+}
+
+.taglist a:hover {
+  background: #5c42b1;
+  opacity: 1;
+}
+
+@media only screen and (max-width: 480px) {
+  /* .taglist {
+    justify-content: center;
+  } */
 }

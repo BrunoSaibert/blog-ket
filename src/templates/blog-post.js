@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import { kebabCase } from "lodash"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -53,6 +54,19 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
+
+        {post.frontmatter.tags ? (
+          <div className="tags-container">
+            <ul className="taglist">
+              {post.frontmatter.tags.map(tag => (
+                <li key={tag + `tag`}>
+                  <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ) : null}
+
         <hr
           style={{
             marginBottom: rhythm(1),
@@ -110,6 +124,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "DD/MM/YYYY")
         description
+        tags
       }
     }
   }

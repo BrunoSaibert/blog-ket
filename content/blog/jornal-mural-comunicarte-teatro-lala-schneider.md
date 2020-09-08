@@ -1,10 +1,13 @@
 ---
+slug: jornal-mural-comunicarte-teatro-lala-schneider
 title: Jornal Mural Comunicarte - Teatro Lala Schneider
-date: "2019-06-01T12:00:00.284Z"
+date: 2019-06-01
 description: Trabalhos Acadêmicos
+tags:
+  - tag
 ---
 
-![Cortinas de teatro](./background.jpg)
+![Cortinas de teatro](/images/upload/teatro-cortina.jpg "Cortinas de teatro")
 
 Trabalho realizado para o módulo de Temática de Aprendizagem em Processos Jornalísticos. O objetivo da disciplina é fazer o aluno aprender na prática como funciona a produção de um jornal mural que inclui:
 

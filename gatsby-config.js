@@ -1,18 +1,20 @@
+const config = require("./config.json")
+
 module.exports = {
   siteMetadata: {
-    title: `Kethlyn Saibert`,
+    title: config.site_title,
     author: {
-      name: `Kethlyn Saibert`,
-      summary: `Apaixonada por comunicação, amo ler e escrever, sou apreciadora do cinema, música e cultura pop. Adoro fotografia, sou protetora dos animais (e também louca dos gatos rs), movida pelos sonhos e pela cafeína.`,
+      name: config.site_title,
+      summary: config.site_description,
     },
     description: `Blog de Kethlyn Saibert, acadêmica de Jornalismo`,
     siteUrl: `https://blog-ket.netlify.app/`,
     social: {
-      twitter: `kettavss`,
-      instagram: `kettavs`,
-      linkedin: `kethlyn-tavares-saibert`,
-      whatsapp: `5541987714545`,
-      email: `kethlyntavares96@gmail.com`,
+      twitter: config.twitter_account,
+      instagram: config.instagram_account,
+      linkedin: config.linkedin_account,
+      whatsapp: config.phone_number,
+      email: config.mail_account,
     },
   },
   plugins: [
@@ -75,7 +77,7 @@ module.exports = {
         short_name: `KethlynSaibert`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#b60627`,
+        theme_color: `#7159c1`,
         display: `minimal-ui`,
         icon: `content/assets/icon.png`,
       },

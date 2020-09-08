@@ -1,10 +1,14 @@
 ---
+slug: projeto-roda-ai-rpc
 title: Roda Aí - RPC TV
-date: "2019-10-03T12:00:00.284Z"
+date: 2019-10-03
 description: Projeto de Extensão
+tags:
+  - tag
+  - outra tag
 ---
 
-![Card do projeto Roda Aí da RPC TV](./roda_ai.jpg)
+![Card do projeto Roda Aí da RPC TV](/images/upload/roda_ai.jpg "Card do projeto Roda Aí da RPC TV")
 
 ## Projeto Roda Aí
 

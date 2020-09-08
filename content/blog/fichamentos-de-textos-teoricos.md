@@ -1,10 +1,13 @@
 ---
+slug: fichamentos-de-textos-teoricos
 title: Fichamentos de Textos - Teorias do Jornalismo
-date: "2019-11-07T12:00:00.284Z"
+date: 2019-11-07
 description: Trabalhos Acadêmicos
+tags:
+  - tag
 ---
 
-![Produção textual](./producao-textual.jpg)
+![Produção textual](/images/upload/producao-textual.jpg "Produção textual")
 
 ## Fichamento de texto - Texto Científico
 

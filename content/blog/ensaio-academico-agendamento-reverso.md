@@ -1,10 +1,13 @@
 ---
+slug: ensaio-academico-agendamento-reverso
 title: Ensaio Acadêmico - Agendamento Reverso
-date: "2019-12-17T12:00:00.284Z"
+date: 2019-12-17
 description: Segunda e última fase do Módulo de Fundamentos e Teorias
+tags:
+  - tag
 ---
 
-![Produção textual](./producao-textual.jpg)
+![Produção textual](/images/upload/producao-textual.jpg "Produção textual")
 
 Ensaio Acadêmico sobre a Teoria do Agendamento com reflexão sobre a nossa atualidade das mídias digitais para entender de que maneira os assuntos discutidos nas redes sociais (twitter, facebook e youtube) servem como pauta e ganham destaque nas mídias tradicionais de comunicação (tv, rádio e impresso). Tema extremamente relevante para o jornalismo tendo em vista que estamos numa onda desenfreada de fake news.
 

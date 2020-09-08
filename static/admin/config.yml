@@ -7,6 +7,39 @@ public_folder: /images/upload
 publish_mode: editorial_workflow
 
 collections:
+  - name: "config"
+    label: "Configurações"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: "general"
+        label: "Configuração do site"
+        file: "config.json"
+        description: "Configurações gerais do site"
+        fields:
+          - label: "Título"
+            name: "site_title"
+            widget: "string"
+          - label: "Descrição"
+            name: "site_description"
+            widget: "string"
+          - label: "Twitter"
+            name: "twitter_account"
+            widget: "string"
+          - label: "Instagram"
+            name: "instagram_account"
+            widget: "string"
+          - label: "LinkedIn"
+            name: "linkedin_account"
+            widget: "string"
+          - label: "E-mail"
+            name: "mail_account"
+            widget: "string"
+          - label: "Telefone"
+            name: "phone_number"
+            widget: "string"
+
   - name: "meta"
     label: "Meta"
     delete: false

@@ -1,10 +1,13 @@
 ---
+slug: outubro-rosa-2019
 title: Matéria sobre o Outubro Rosa - Pop FM Curitiba
-date: "2019-10-05T12:00:00.284Z"
+date: 2019-10-05
 description: Trabalho Voluntário
+tags:
+  - tag
 ---
 
-![Outubro Rosa](./outubro-rosa-2019.jpg)
+![Outubro Rosa 2019](/images/upload/outubro-rosa-2019.jpg "Outubro Rosa 2019")
 
 No mês de outubro fiz uma matéria de forma voluntária sobre o Outubro Rosa para a Radio Web POP FM Curitiba, com o intuito de melhor informar sobre a mamografia, pegando o gancho sobre boatos no autoexame que infelizmente são muito comuns nesse mês.
 
