@@ -1,10 +1,11 @@
 ---
 slug: outubro-rosa-2019
 title: Matéria sobre o Outubro Rosa - Pop FM Curitiba
-date: 2019-10-05
 description: Trabalho Voluntário
+date: 2019-10-05
 tags:
-  - tag
+  - Outubro Rosa
+  - Trabalho Voluntário
 ---
 
 ![Outubro Rosa 2019](/images/upload/outubro-rosa-2019.jpg "Outubro Rosa 2019")
