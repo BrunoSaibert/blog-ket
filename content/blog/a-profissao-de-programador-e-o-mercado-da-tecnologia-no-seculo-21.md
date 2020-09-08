@@ -9,6 +9,7 @@ tags:
   - Programação
   - Mercado de Trabalho
   - Ensaio Fotográfico
+  - Entrevista
 ---
 
 ![Profissional de progamação. Foto: Kethlyn Saibert](/images/upload/programador01.jpg "Profissional de progamação. Foto: Kethlyn Saibert")
