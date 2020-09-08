@@ -8,6 +8,7 @@ tags:
   - Jornal Mural
   - Teatro
   - Ensaio Fotográfico
+  - Entrevista
 ---
 
 ![Cortinas de teatro](/images/upload/teatro-cortina.jpg "Cortinas de teatro")
