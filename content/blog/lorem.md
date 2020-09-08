@@ -6,7 +6,7 @@ date: 2020-08-20
 tags:
   - tag
 ---
-![Profissional de progamação. Foto: Kethlyn Saibert](/content/blog/images/1587470786293-attachment.png "Profissional de progamação. Foto: Kethlyn Saibert")
+![Profissional de progamação. Foto: Kethlyn Saibert](upload/capa-filme-parasita.jpg "Profissional de progamação. Foto: Kethlyn Saibert")
 
 *Profissional de progamação. Foto: Kethlyn Saibert*
 
