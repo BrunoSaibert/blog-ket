@@ -4,12 +4,12 @@ title: "Ensaio Fotográfico: Curitiba em restrição na Covid-19"
 description: Medidas de prevenção mudam a rotina da capital
 date: 2020-05-29
 tags:
-  - covid-19
-  - ensaio-fotografico
-  - curitiba
-  - jornalismo
-  - fotojornalismo
-  - pandemia
+  - Covid-19
+  - Ensaio Fotográfico
+  - Curitiba
+  - Jornalismo
+  - Fotojornalismo
+  - Pandemia
 ---
 
 **_Trabalho Acadêmico._**

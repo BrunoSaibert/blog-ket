@@ -6,19 +6,20 @@ description: Crise do coronavírus e isolamento social contribuem para o
   devem ser tomados.
 date: 2020-04-30
 tags:
-  - covid-19
-  - isolamento-social
-  - quarentena
-  - saude-mental
-  - psicologia
-  - tecnologia
-  - revista-entreverbos
+  - Covid-19
+  - Isolamento Social
+  - Quarentena
+  - Saúde Mental
+  - Psicologia
+  - Tecnologia
+  - Revista Entreverbos
 ---
-***Reportagem publicada originalmente na [Revista Digital Entreverbos](https://www.entreverbos.com.br/single-post/2020/04/30/Psic%C3%B3logos-alertam-sobre-a-sa%C3%BAde-mental-em-tempos-de-quarentena) em 30/04/2020***
+
+**_Reportagem publicada originalmente na [Revista Digital Entreverbos](https://www.entreverbos.com.br/single-post/2020/04/30/Psic%C3%B3logos-alertam-sobre-a-sa%C3%BAde-mental-em-tempos-de-quarentena) em 30/04/2020_**
 
 ![Pessoa de máscara utilizando o celular](/images/upload/capa.jpg "Pessoa de máscara utilizando o celular")
 
-*Uso excessivo da tecnologia pode contribuir para transtornos mentais. Crédito ( Engin Akyurt/ Unsplash)*
+_Uso excessivo da tecnologia pode contribuir para transtornos mentais. Crédito ( Engin Akyurt/ Unsplash)_
 
 Segundo relatório da [Organização Mundial da Saúde (OMS)](https://veja.abril.com.br/saude/os-brasileiros-sao-os-mais-ansiosos-do-mundo-segundo-a-oms/), de 2019, o Brasil é o país “mais ansioso” do mundo. Dados do órgão apontam que mais de 9% dos brasileiros, cerca de 18,6 milhões de pessoas, sofrem algum tipo de transtorno mental. Em meio ao cenário atual de quarentena, causado pelo novo coronavírus, a saúde mental é diretamente afetada com a mudança brusca que sofremos. Medidas de combate à propagação do vírus e o isolamento social fizeram milhares de brasileiros “desacelerar” das correrias do dia-a-dia, tendo que ficarem confinados em casa para o bem social e pela saúde de todos. A quarentena, o medo do vírus e a incerteza sobre quando tudo isso acabará criam um cenário de insegurança. Diante disso, profissionais da saúde mental alertam sobre os efeitos da situação no psicológico das pessoas.
 
@@ -28,7 +29,7 @@ Já para quem está na ativa em casa, em home office, o importante é buscar o a
 
 ![psicóloga clínica Ana Carolina Baltazar Robes](/images/upload/ana-psicologa.jpg "psicóloga clínica Ana Carolina Baltazar Robes")
 
-*Psicóloga clínica Ana Carolina Baltazar Robes. (crédito: arquivo pessoal)*
+_Psicóloga clínica Ana Carolina Baltazar Robes. (crédito: arquivo pessoal)_
 
 Outro ponto que impacta na saúde mental é o excesso de informações que recebemos constantemente devido a facilidade da tecnologia. O aspecto tecnológico como mediador das informações numa pandemia hoje é diferente do que aconteceu há 11 anos, durante o surto de H1N1, visto que, naquela época, os smartphones estavam “engatinhando” e o acesso a internet era mais limitado. Atualmente, na era da informação, as pessoas são bombardeadas por notícias o tempo todo. Ana alerta que é preciso estabelecer um filtro e saber identificar gatilhos que possam gerar ansiedade: “Se eu percebo que as notícias estão gerando em mim uma ansiedade, preocupação, medo, angústia além do minimamente confortável pra mim, se estas sensações e sentimentos, estão de alguma forma me prejudicando, devo maneirar, e digo maneirar por que não acredito que seja possível, e nem indicado a restrição completa de informações”. A psicóloga ressalta a importância de consumir informações apenas de fontes confiáveis e não absorver tudo o que vem das redes sociais, para assim evitar as fake news.
 

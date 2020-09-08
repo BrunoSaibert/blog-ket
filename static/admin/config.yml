@@ -56,16 +56,6 @@ collections:
             label_singular: "Tag"
             widget: list
             fields:
-              - label: "Slug"
-                name: "slug"
-                required: true
-                pattern:
-                  [
-                    "^[a-z0-9]+(?:-[a-z0-9]+)*$",
-                    "Um slug não pode ter espaços ou caracteres especiais",
-                  ]
-                widget: "string"
-                hint: "A parte de um URL identifica a tag"
               - label: "Nome"
                 name: "name"
                 widget: "string"
@@ -117,7 +107,7 @@ collections:
             - "tags.*.name"
           displayFields:
             - "tags.*.name"
-          valueField: "tags.*.slug"
+          valueField: "tags.*.name"
       - label: "Texto"
         name: "body"
         widget: "markdown"

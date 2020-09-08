@@ -5,12 +5,12 @@ description: O drama do diretor Bong Joon-ho é o primeiro longa falado em líng
   estrangeira a conquistar o maior prêmio do Oscar
 date: 2020-02-12
 tags:
-  - parasita
-  - bong-joon-ho
-  - oscar
-  - cinema
-  - opiniao
-  - analise
+  - Parasita
+  - Bong Joon-ho
+  - Oscar
+  - Cinema
+  - Opinião
+  - Análise
 ---
 
 **_Publicada originalmente em [POP FM Curitiba](http://popfmcuritiba.com.br/noticias/parasita-um-filme-sul-coreano-que-tambem-e-sobre-o-brasil)._**

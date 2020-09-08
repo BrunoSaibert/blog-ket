@@ -1,73 +1,37 @@
 tags:
-  - slug: covid-19
-    name: Covid-19
-  - slug: ensaio-fotografico
-    name: Ensaio Fotográfico
-  - slug: curitiba
-    name: Curitiba
-  - slug: jornalismo
-    name: Jornalismo
-  - slug: fotojornalismo
-    name: Fotojornalismo
-  - slug: programacao
-    name: Programação
-  - slug: tecnologia
-    name: Tecnologia
-  - slug: mercado-de-trabalho
-    name: Mercado de trabalho
-  - slug: isolamento-social
-    name: Isolamento Social
-  - slug: quarentena
-    name: Quarentena
-  - slug: pandemia
-    name: Pandemia
-  - slug: saude-mental
-    name: Saúde Mental
-  - slug: psicologia
-    name: Psicologia
-  - slug: revista-entreverbos
-    name: Revista Entreverbos
-  - slug: opiniao
-    name: Opinião
-  - slug: analise
-    name: Análise
-  - slug: oscar
-    name: Oscar
-  - slug: cinema
-    name: Cinema
-  - slug: bong-joon-ho
-    name: Bong Joon-ho
-  - slug: parasita
-    name: Parasita
-  - slug: desigualdade-social
-    name: Desigualdade Social
-  - slug: trabalho-voluntario
-    name: Trabalho Voluntário
-  - slug: ensaio-academico
-    name: Ensaio Acadêmico
-  - slug: teoria-do-agendamento
-    name: Teoria do Agendamento
-  - slug: agendamento-reverso
-    name: Agendamento Reverso
-  - slug: comunicacao-de-massa
-    name: Comunicação de Massa
-  - slug: teoria-do-jornalismo
-    name: Teoria do Jornalismo
-  - slug: teoria-da-comunicacao
-    name: Teoria da Comunicação
-  - slug: fichamento
-    name: Fichamento
-  - slug: outubro-rosa
-    name: Outubro Rosa
-  - slug: roda-ai
-    name: Roda Aí
-  - slug: rpc-tv
-    name: RPC TV
-  - slug: rede-globo
-    name: Rede Globo
-  - slug: trabalho-academico
-    name: Trabalho Acadêmico
-  - slug: jornal-mural
-    name: Jornal Mural
-  - slug: teatro
-    name: Teatro
+  - name: Covid-19
+  - name: Ensaio Fotográfico
+  - name: Curitiba
+  - name: Jornalismo
+  - name: Fotojornalismo
+  - name: Programação
+  - name: Tecnologia
+  - name: Mercado de trabalho
+  - name: Isolamento Social
+  - name: Quarentena
+  - name: Pandemia
+  - name: Saúde Mental
+  - name: Psicologia
+  - name: Revista Entreverbos
+  - name: Opinião
+  - name: Análise
+  - name: Oscar
+  - name: Cinema
+  - name: Bong Joon-ho
+  - name: Parasita
+  - name: Desigualdade Social
+  - name: Trabalho Voluntário
+  - name: Ensaio Acadêmico
+  - name: Teoria do Agendamento
+  - name: Agendamento Reverso
+  - name: Comunicação de Massa
+  - name: Teoria do Jornalismo
+  - name: Teoria da Comunicação
+  - name: Fichamento
+  - name: Outubro Rosa
+  - name: Roda Aí
+  - name: RPC TV
+  - name: Rede Globo
+  - name: Trabalho Acadêmico
+  - name: Jornal Mural
+  - name: Teatro
