@@ -1,10 +1,13 @@
 ---
 slug: jornal-mural-comunicarte-teatro-lala-schneider
 title: Jornal Mural Comunicarte - Teatro Lala Schneider
-date: 2019-06-01
 description: Trabalhos Acadêmicos
+date: 2019-06-01
 tags:
-  - tag
+  - Trabalho Acadêmico
+  - Jornal Mural
+  - Teatro
+  - Ensaio Fotográfico
 ---
 
 ![Cortinas de teatro](/images/upload/teatro-cortina.jpg "Cortinas de teatro")
