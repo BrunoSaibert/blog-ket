@@ -1,10 +1,11 @@
 ---
 slug: oficina-de-fotografia
 title: Oficina de Fotografia
-date: 2019-08-10
 description: Projeto de Extensão
+date: 2019-08-10
 tags:
-  - tag
+  - Ensaio Fotográfico
+  - Trabalho Acadêmico
 ---
 
 ![Câmera fotográfica](/images/upload/fotografia.jpg)
