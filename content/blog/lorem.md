@@ -6,7 +6,7 @@ date: 2020-05-15
 tags:
   - tag
 ---
-![Profissional de progamação. Foto: Kethlyn Saibert](/images/upload/nyan.jpg "Profissional de progamação. Foto: Kethlyn Saibert")
+![Profissional de progamação. Foto: Kethlyn Saibert](/images/upload/programador01.jpg "Profissional de progamação. Foto: Kethlyn Saibert")
 
 *Profissional de progamação. Foto: Kethlyn Saibert*
 
