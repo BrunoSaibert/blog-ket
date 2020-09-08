@@ -1,11 +1,12 @@
 ---
 slug: projeto-roda-ai-rpc
 title: Roda Aí - RPC TV
-date: 2019-10-03
 description: Projeto de Extensão
+date: 2019-10-03
 tags:
-  - tag
-  - outra tag
+  - Roda Aí
+  - RPC TV
+  - Rede Globo
 ---
 
 ![Card do projeto Roda Aí da RPC TV](/images/upload/roda_ai.jpg "Card do projeto Roda Aí da RPC TV")
