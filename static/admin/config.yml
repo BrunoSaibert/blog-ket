@@ -48,6 +48,15 @@ collections:
     identifier_field: slug
     summary: "{{title}}"
     fields:
+      - label: "Slug"
+        name: "slug"
+        required: true
+        pattern:
+          [
+            "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+            "Um slug não pode ter espaços ou caracteres especiais",
+          ]
+        widget: "string"
       - label: "Título"
         name: "title"
         widget: "string"
