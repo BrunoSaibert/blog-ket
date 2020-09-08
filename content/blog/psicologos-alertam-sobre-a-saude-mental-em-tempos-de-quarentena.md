@@ -13,6 +13,7 @@ tags:
   - Psicologia
   - Tecnologia
   - Revista Entreverbos
+  - Entrevista
 ---
 
 **_Reportagem publicada originalmente na [Revista Digital Entreverbos](https://www.entreverbos.com.br/single-post/2020/04/30/Psic%C3%B3logos-alertam-sobre-a-sa%C3%BAde-mental-em-tempos-de-quarentena) em 30/04/2020_**
