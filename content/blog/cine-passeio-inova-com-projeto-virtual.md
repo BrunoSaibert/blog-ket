@@ -50,8 +50,6 @@ Para Luiz Gustavo Vilela, professor, crítico de cinema e jornalista, a iniciati
 
 > “Porque a formação de público qualificado não pode esperar a reabertura dos cinemas”.
 
- Vilela destaca que o público tem consumido cada vez mais conteúdo digital e também 
-
-> “produz, se a gente pensar no TikTok ou Instagram, de forma bastante frenética em casa” 
+ Vilela destaca que o público tem consumido cada vez mais conteúdo digital e também “produz, se a gente pensar no TikTok ou Instagram, de forma bastante frenética em casa”, diz.
 
 O cinéfilo está muito animado com projeto, pois dessa maneira é uma forma de promover e qualificar profissionais e entusiastas que têm interesse no audiovisual. Além de que, agora o Cine Passeio não está mais limitado à Rua Riachuelo, já que há pessoas de fora de Curitiba acompanhando as aulas: “A expectativa é que essas pessoas de fora acessem o catálogo online do Cine Passeio e vejam filmes de realizadores locais, que sempre são programados lá”, afirma Vilela.
