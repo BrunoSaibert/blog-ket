@@ -25,13 +25,15 @@ O curador destaca que com essa iniciativa o Cine Passeio foi o primeiro cinema d
 
 Quando os curadores Marden Machado e Marcos Jorge começaram a trabalhar no projeto arquitetônico em 2017, 
 
-> “a ideia desde o começo era transformar o ambiente em um espaço de debate da arte cinematográfica”, diz Marden. 
+> “a ideia desde o começo era transformar o ambiente em um espaço de debate da arte cinematográfica”. 
 
 Uma forma de se diferenciar dos cinemas comuns de shoppings. Então, o espaço foi pensado para que as pessoas possam discutir sobre os filmes após as sessões. O cinema conta com um coworking, café e o espaço Valêncio Xavier, sala voltada para cursos de audiovisual, chamada de masterclasses. 
 
-O curador explica que em meio à pandemia houve a necessidade de continuar com as aulas online, já que o Cine Passeio tem um público cativo de amantes da sétima arte. “Uma vez que as pessoas não podiam mais sair de suas casas para ir até o Cine Passeio, a gente procurou uma maneira de levar o nosso conteúdo até a casa das pessoas”, afirma Marden. As aulas presenciais têm lotação de 60 lugares e no modo virtual se manteve o mesmo número. O aluno acessa o site, se inscreve na turma da semana e recebe por e-mail o login e senha. As masterclasses são realizadas por meio da plataforma do Google Hangouts. O professor expõe o material em PowerPoint e vídeos com cenas de filmes e também é possível interagir via chat, microfone e câmera. As aulas são ministradas aos sábados das 15h às 17h, sempre com um assunto diferente relacionado a produções cinematográficas.
+Marden explica que em meio à pandemia houve a necessidade de continuar com as aulas online, já que o Cine Passeio tem um público cativo de amantes da sétima arte. “Uma vez que as pessoas não podiam mais sair de suas casas para ir até o Cine Passeio, a gente procurou uma maneira de levar o nosso conteúdo até a casa das pessoas”.
 
-Outra forma de resgatar o público foi a criação do Podcast Passeio. Com os podcasts cada vez mais populares na web, foi mais uma maneira de entregar conteúdo diferente e se reinventar num período em que o cinema está fechado. A curadoria percebeu no primeiro ano do Cine Passeio que o público é bem diversificado, então é interessante trazer conteúdos diferentes para gostos diferentes.
+ As aulas presenciais têm lotação de 60 lugares e no modo virtual se manteve o mesmo número. O aluno acessa o site, se inscreve na turma da semana e recebe por e-mail o login e senha. As masterclasses são realizadas por meio da plataforma do Google Hangouts. O professor expõe o material em PowerPoint e vídeos com cenas de filmes e também é possível interagir via chat, microfone e câmera. As aulas são ministradas aos sábados das 15h às 17h, sempre com um assunto diferente relacionado a produções cinematográficas.
+
+Outra forma de resgatar o público foi a criação do Podcast Passeio. Com os podcasts cada vez mais populares na web, foi mais uma maneira de entregar conteúdo diferente e se reinventar num período em que o cinema está fechado. A curadoria percebeu no primeiro ano de atividade que o público do Cine Passeio é bem diversificado, então é interessante trazer conteúdos diferentes para gostos diferentes.
 
 O podcast traz assuntos diversos que vão desde temas mais técnicos do audiovisual a entrevistas com personalidades do cinema brasileiro e internacional. Os episódios já contaram com as presenças de artistas renomados, seja da cena independente quanto do mainstream. Como o cineasta Aly Muritiba, o crítico de cinema Fernando Brito e até entrevistas com os atores Lázaro Ramos e Bárbara Paz.
 
