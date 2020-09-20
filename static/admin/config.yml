@@ -92,6 +92,13 @@ collections:
         format: "YYYY-MM-DD"
         dateFormat: "YYYY-MM-DD"
         timeFormat: false
+      - label: "Imagem de destaque"
+        name: "thumbnail"
+        widget: "image"
+        default: "/images/upload/_avatar.jpeg"
+        media_library:
+          config:
+            multiple: false
       - label: Tags
         label_singular: "Tag"
         name: "tags"
