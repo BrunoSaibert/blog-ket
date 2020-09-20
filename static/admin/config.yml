@@ -92,7 +92,7 @@ collections:
         format: "YYYY-MM-DD"
         dateFormat: "YYYY-MM-DD"
         timeFormat: false
-      - label: "Imagem de destaque"
+      - label: "Imagem Destaque"
         name: "thumbnail"
         widget: "image"
         default: "/images/upload/_avatar.jpeg"

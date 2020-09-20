@@ -32,6 +32,7 @@ const SEO = ({ description, lang, meta, title, image }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
+  const metaImage = image || "/images/upload/_avatar.jpeg"
 
   return (
     <Helmet
@@ -59,7 +60,7 @@ const SEO = ({ description, lang, meta, title, image }) => {
         },
         {
           property: `og:image`,
-          content: image,
+          content: metaImage,
         },
         {
           name: `twitter:card`,
@@ -74,12 +75,12 @@ const SEO = ({ description, lang, meta, title, image }) => {
           content: title,
         },
         {
-          name: `twitter:image`,
-          content: image,
-        },
-        {
           name: `twitter:description`,
           content: metaDescription,
+        },
+        {
+          name: `twitter:image`,
+          content: metaImage,
         },
       ].concat(meta)}
     />
@@ -90,7 +91,7 @@ SEO.defaultProps = {
   lang: `pt-br`,
   meta: [],
   description: ``,
-  image: `/images/upload/_avatar.jpeg`,
+  image: ``,
 }
 
 SEO.propTypes = {
