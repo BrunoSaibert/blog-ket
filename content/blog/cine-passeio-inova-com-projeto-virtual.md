@@ -4,6 +4,7 @@ title: Cine Passeio inova com projeto virtual
 description: Famoso cinema de rua curitibano lança o “Passeio em Casa” devido à
   pandemia de Covid-19.
 date: 2020-07-17
+thumbnail: /images/upload/foto_tourvirtualcinepasseio.jpg
 tags:
   - Cine Passeio
   - Cinema
