@@ -3,6 +3,7 @@ slug: ensaio-fotografico-curitiba-em-restricao-na-covid-19
 title: "Ensaio Fotográfico: Curitiba em restrição na Covid-19"
 description: Medidas de prevenção mudam a rotina da capital
 date: 2020-05-29
+thumbnail: /images/upload/curitiba-covid-19-5.jpg
 tags:
   - Covid-19
   - Ensaio Fotográfico
@@ -11,7 +12,7 @@ tags:
   - Fotojornalismo
   - Pandemia
 ---
-***Trabalho acadêmico publicado na [Revista F - edição n° 6 de 2020](https://issuu.com/frevista/docs/revista_f_09).***
+***Trabalho acadêmico publicado na [Revista F - edição n° 9 de 2020](https://issuu.com/frevista/docs/revista_f_09).***
 
 Depois que a Organização Mundial da Saúde (OMS) em 11 de março de 2020 declarou pandemia do novo coronavírus (COVID-19), os países foram gradativamente se ajustando às novas medidas sanitárias. Em decorrência disso, o Governo do Paraná juntamente com a Prefeitura Municipal de Curitiba (PMC) estabeleceram protocolos para combater a doença, tendo em vista que ainda não há vacinas ou tratamento. No decreto n° 421/2020 instaurado no dia 16 de março, foi orientado o isolamento social e as atividades com aglomerações de pessoas foram suspensas, como as aulas nas escolas, shows e eventos esportivos.
 
